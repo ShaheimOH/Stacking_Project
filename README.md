@@ -1,2 +1,3 @@
 # Stacking_Project
-dwd
+
+Stacked Generalisation in multimodal neonatal imaging for phenotype prediction 
